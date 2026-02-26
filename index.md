@@ -47,7 +47,7 @@ Tech: Python, Scikit Learn, SQL, Power BI
 ---
 
 ### Renewable Installations and Generation Benchmark  
-![Renewable Dashboard Preview](assets/Sales_Performance_Analysis.png)
+![Renewable Dashboard Preview](assets/CPCA_Renewable_Dashboard.png)
 
 Regional renewable energy benchmarking across ten years of installations and generation trends.
 
