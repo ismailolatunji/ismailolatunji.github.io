@@ -3,9 +3,12 @@
 
 [About](index.html) | [Featured Projects](projects.html) | [GitHub](https://github.com/ismailolatunji) | [LinkedIn](https://linkedin.com/in/ismailolatunji)
 
+<p align="center">
 <img src="assets/headshot.png" alt="Ismail headshot" width="220">
+</p>
 
-# About
+
+## About
 
 Data and BI Analyst with 7+ years of commercial experience designing performance measurement frameworks, automated reporting systems and executive dashboards across marketing and operations.
 
@@ -15,7 +18,7 @@ I combine commercial context with technical depth, ensuring analytics outputs ar
 
 My portfolio demonstrates applied analytics across commercial and public-sector datasets within the UK context.
 
-# Impact Highlights
+## Impact Highlights
 
 - Designed and deployed 30+ production dashboards supporting executive decision cycles  
 - Reduced reporting cycle time by 50 percent through Python and SQL automation  
