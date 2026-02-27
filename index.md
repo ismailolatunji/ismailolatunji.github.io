@@ -3,9 +3,6 @@
 
 [About](index.html) | [Projects](projects.html) | [GitHub](https://github.com/ismailolatunji) | [LinkedIn](https://linkedin.com/in/ismailolatunji)
 
-# **Ismail Olatunji**
-**Data & BI Analyst | Performance Measurement & KPI Architecture | SQL | Python | Power BI**  
-Manchester, UK
 
 ![Ismail headshot](assets/headshot.png)
 
