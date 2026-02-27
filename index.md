@@ -9,21 +9,28 @@
 Manchester, UK
 
 
-<p align="center">
-  <img src="assets/headshot.png" alt="Ismail headshot" width="350">
-</p>
+![Ismail headshot](assets/headshot.png)
 
 
 ## About
-Data and BI Analyst with 7+ years of commercial experience building KPI frameworks, automated reporting pipelines, and executive dashboards across marketing and operations.
 
-I focus on measurable performance visibility, data quality, and decision support. My portfolio includes commercial analytics and public-sector benchmarking using UK datasets.
+Data and BI Analyst with 7+ years of commercial experience designing performance measurement frameworks, automated reporting systems and executive dashboards across marketing and operations.
 
-## Proof points
-- Reduced reporting cycle time by 50 percent through Python and SQL automation  
-- Built 30+ Power BI dashboards to support executive decision making  
-- Implemented structured validation checks to improve reporting reliability  
+I specialise in translating business objectives into structured KPI architectures, building reliable data pipelines and delivering decision-grade reporting that supports measurable performance improvement.
+
+My portfolio combines commercial analytics and public-sector benchmarking using real UK datasets.
+
+
+## Selected Impact
+
+- Reduced reporting cycle time by 50 percent through Python and SQL automation
+- Designed and deployed 30+ production dashboards supporting executive decision cycles
+- Implemented structured validation controls improving reporting reliability to 99 percent
+
 
 ## Contact
 Email: olatunjiomotayoh@yahoo.com  
 LinkedIn: https://linkedin.com/in/ismailolatunji
+
+
+Currently open to Data, BI and Insight roles across the UK.
