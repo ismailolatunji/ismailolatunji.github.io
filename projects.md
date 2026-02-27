@@ -3,95 +3,133 @@
 
 [About](index.html) | [Featured Projects](projects.html) | [GitHub](https://github.com/ismailolatunji) | [LinkedIn](https://linkedin.com/in/ismailolatunji)
 
+---
 
-## Road Traffic Collision Severity Modelling
+## **Road Traffic Collision Severity Modelling**
 
 ![Collision Dashboard Preview](assets/Road_Traffic_Collision.png)
 
-**Situation:** Assess severity risk drivers in 22,000+ UK collision records to support targeted intervention planning.
+**Situation**  
+Assess severity risk drivers across 22,000+ UK road collision records to understand which factors most influence high-severity outcomes.
 
-**What I Did:**
-- Built and compared five ML models to evaluate predictor influence
-- Developed an interactive Power BI dashboard illustrating key risk factors
+**What I Did**
+- Built and compared five machine learning models to evaluate predictor influence
+- Applied class-balancing techniques to improve model reliability
+- Developed an interactive Power BI dashboard illustrating key risk factors and geographic patterns
 
-**Key Insight:**
-- Random Forest achieved 97% accuracy in classification
-- Five risk factors consistently elevated severity risk
+**Key Insight**
+- Random Forest achieved 97 percent classification accuracy
+- Identified consistent high-impact severity drivers and geographic concentration zones
 
-**Why It Matters:**
-This dashboard enables prioritisation of high-risk areas and factors, guiding resource allocation and safety-focused initiatives.
+**Why It Matters**  
+Demonstrates how structured modelling and visualisation can support targeted intervention prioritisation and evidence-based decision-making.
 
 **Methods:** ML model comparison, risk factor analysis, executive dashboarding  
-**Tools:** Python (Scikit Learn), Power BI
+**Tools:** Python (Scikit Learn), Power BI  
 
 [View Repository](https://github.com/ismailolatunji/Road-Traffic-Collision-Analysis-in-Cambridgeshire-UK)
 
-
 ---
 
-## **Education Attainment Gap Analysis**
+## **Education Attainment Gap Analysis (EHCP)**
+
 ![EHCP Preview](assets/medway_vs_national_ehcp_trend.png)
 
-Six-year benchmark analysis of EHCP phonics attainment against national averages to assess performance risk and inform targeted intervention planning.
+**Situation**  
+Evaluate six years of EHCP phonics attainment data to benchmark local performance against national averages and assess structural risk.
 
-**Key contributions**
-- Quantified sustained 11 percent attainment gap relative to national benchmark
-- Identified trend instability and data-quality inconsistencies affecting interpretation
-- Produced board-style reporting demonstrating how structured benchmarking can inform SEND strategy discussions
-- Structured analysis to enable year-on-year performance monitoring
+**What I Did**
+- Structured year-on-year benchmarking across multiple academic cohorts
+- Quantified attainment gaps relative to national performance
+- Produced board-style analytical reporting for performance monitoring
 
-Tech: Excel, Power Query  
+**Key Insight**
+- Identified sustained 11 percent attainment gap relative to benchmark
+- Highlighted data-quality inconsistencies impacting interpretation
+
+**Why It Matters**  
+Shows how performance benchmarking and structured analysis can inform targeted improvement strategy and accountability monitoring.
+
+**Methods:** Cohort benchmarking, gap analysis, performance reporting  
+**Tools:** Excel, Power Query  
+
 [View Repository](https://github.com/ismailolatunji/EHCP-phonics-attainment-gap-analysis-medway)
-
-
----
-
-## **Renewable Installations and Generation Benchmark**
-![Renewable Dashboard Preview](assets/CPCA_Renewable_Dashboard.png)
-
-Regional benchmarking analysis evaluating renewable installation growth and CPCA contribution to UK renewable electricity generation over a ten-year period.
-
-**Key contributions**
-- Analysed 2014–2024 installation and generation trends to assess growth trajectory
-- Benchmarked regional output against UK national totals to quantify contribution share
-- Designed an executive-style dashboard demonstrating regional performance tracking against Net Zero targets
-
-Tech: Excel, Analytical Benchmarking  
-[View Repository](https://github.com/ismailolatunji/cpca-renewable-energy-installations-generation-analysis)
-
-
----
-
-## **UK Crime Analysis Using PySpark**
-
-Large-scale analysis of multi-year UK police-recorded crime data to identify geographic concentration patterns and long-term trend shifts.
-
-**Key contributions**
-- Processed multi-year datasets using Apache Spark for scalable analysis
-- Identified crime concentration hotspots and evolving trend patterns
-- Structured findings to illustrate how geographic pattern analysis can inform resource allocation discussions
-- Demonstrated ability to handle distributed data processing environments
-
-Tech: PySpark, Python, Apache Spark, Hive  
-[View Repository](https://github.com/ismailolatunji/Crime-Analysis-Using-PySpark-and-Python)
-
 
 ---
 
 ## **Executive Sales Performance Dashboard**
+
 ![Sales Dashboard Preview](assets/Sales_Performance_Analysis.png)
 
-Automated performance dashboard delivering real-time revenue visibility, product performance insights and executive-level KPI tracking.
+**Situation**  
+Improve executive visibility into revenue, product and customer performance while reducing manual reporting dependency.
 
-**Key contributions**
-- Reduced reporting time by 40 percent through automated Power Query workflows
-- Designed structured KPI views across products, customers and revenue segments
-- Enabled cross-functional self-serve access to performance metrics
-- Improved executive decision speed through consolidated reporting framework
+**What I Did**
+- Automated reporting workflows using Power Query
+- Designed structured KPI views across product and customer segments
+- Consolidated reporting into a unified executive dashboard
 
-Tech: Excel, Power Query, Executice Dashboard 
+**Key Insight**
+- Reduced reporting cycle time by 40 percent
+- Enabled cross-functional teams to access performance data autonomously
+
+**Why It Matters**  
+Illustrates how structured KPI architecture improves decision speed, performance visibility and operational efficiency.
+
+**Methods:** KPI design, reporting automation, dashboard architecture  
+**Tools:** Excel, Power Query, VBA  
+
 [View Repository](https://github.com/ismailolatunji/Interactive-Excel-Dashboard-In-Depth-Sales-Performance-Analysis)
 
+---
+
+## **Renewable Installations and Generation Benchmark (CPCA, 2014–2024)**
+
+![Renewable Dashboard Preview](assets/CPCA_Renewable_Dashboard.png)
+
+**Situation**  
+Assess regional renewable installation growth and generation contribution relative to UK national performance over a ten-year period.
+
+**What I Did**
+- Analysed installation and generation trends from 2014 to 2024
+- Benchmarked regional contribution against national output
+- Designed executive-style monitoring dashboard for structured performance tracking
+
+**Key Insight**
+- Quantified regional growth trajectory and national share contribution
+- Identified areas for deeper capacity and segmentation analysis
+
+**Why It Matters**  
+Demonstrates how benchmarking frameworks can support long-term strategic monitoring and performance evaluation.
+
+**Methods:** Trend analysis, benchmarking framework design  
+**Tools:** Excel  
+
+[View Repository](https://github.com/ismailolatunji/cpca-renewable-energy-installations-generation-analysis)
+
+---
+
+## **UK Crime Pattern Analysis Using PySpark**
+
+**Situation**  
+Analyse multi-year UK police-recorded crime data to identify concentration patterns and trend shifts across geographic areas.
+
+**What I Did**
+- Processed large-scale datasets using Apache Spark for scalable analysis
+- Identified hotspot concentrations and evolving crime-type trends
+- Structured findings into summarised insight outputs
+
+**Key Insight**
+- Revealed consistent geographic concentration clusters
+- Identified long-term pattern shifts across crime categories
+
+**Why It Matters**  
+Demonstrates ability to work with distributed data processing frameworks and translate large-scale analysis into structured insight.
+
+**Methods:** Distributed data processing, hotspot analysis  
+**Tools:** PySpark, Python  
+
+[View Repository](https://github.com/ismailolatunji/Crime-Analysis-Using-PySpark-and-Python)
 
 ---
 
@@ -99,10 +137,9 @@ Tech: Excel, Power Query, Executice Dashboard
 
 ### Subscription Revenue Intelligence Framework
 
-Designing an end-to-end KPI framework for a subscription SaaS business including revenue modelling, churn analysis, metric definitions and SQL data modelling.
+Designing an end-to-end KPI architecture for a subscription SaaS business including revenue modelling, churn and retention cohort analysis, metric definition logic and executive performance reporting.
 
-This project will demonstrate production-ready KPI architecture applied to a realistic commercial context.
-
+This project will demonstrate structured measurement design aligned to commercial performance drivers.
 
 ---
 
