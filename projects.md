@@ -111,6 +111,8 @@ Demonstrates how benchmarking frameworks can support long-term strategic monitor
 
 ## **UK Crime Pattern Analysis Using PySpark**
 
+![Crime Pattern Preview](assets/crime.png)
+
 **Situation**  
 Analyse multi-year UK police-recorded crime data to identify concentration patterns and trend shifts across geographic areas.
 
