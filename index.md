@@ -4,19 +4,18 @@
 [About](index.html) | [Featured Projects](projects.html) | [GitHub](https://github.com/ismailolatunji) | [LinkedIn](https://linkedin.com/in/ismailolatunji)
 
 <p align="center">
-<img src="assets/headshot.png" alt="Ismail headshot" width="220">
+  <img src="assets/headshot.png" alt="Ismail Olatunji" width="220" style="border-radius: 8px;">
 </p>
 
 
 ## About
 
-Data and BI Analyst with 7+ years of commercial experience designing performance measurement frameworks, automated reporting systems and executive dashboards across marketing and operations.
+Data and BI Analyst with 7+ years of commercial experience designing performance measurement frameworks, KPI architectures and executive reporting systems across marketing and operations.
 
-I specialise in translating business objectives into structured KPI architectures, building reliable data workflows and delivering decision-grade reporting that supports measurable performance improvement.
+I translate business objectives into structured metrics, reliable data workflows and decision-grade dashboards that improve visibility, accountability and performance.
 
-I combine commercial context with technical depth, ensuring analytics outputs are aligned to decision-making, not just reporting.
+My work focuses on aligning analytics to measurable commercial and operational outcomes rather than producing reports in isolation.
 
-My portfolio demonstrates applied analytics across commercial and public-sector datasets within the UK context.
 
 ## Impact Highlights
 
