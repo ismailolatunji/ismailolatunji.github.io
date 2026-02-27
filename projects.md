@@ -4,18 +4,26 @@
 [About](index.html) | [Featured Projects](projects.html) | [GitHub](https://github.com/ismailolatunji) | [LinkedIn](https://linkedin.com/in/ismailolatunji)
 
 
-## **Road Traffic Collision Severity Modelling**
+## Road Traffic Collision Severity Modelling
+
 ![Collision Dashboard Preview](assets/Road_Traffic_Collision.png)
 
-Analysis of 22,000+ UK road collision records to identify severity risk drivers and support evidence-based intervention prioritisation.
+**Situation:** Assess severity risk drivers in 22,000+ UK collision records to support targeted intervention planning.
 
-**Key contributions**
-- Built and compared five machine learning models to assess collision severity predictors
-- Achieved 97 percent classification accuracy using Random Forest
-- Identified high-impact risk factors and geographic concentration zones
-- Developed an interactive Power BI dashboard illustrating how severity risk drivers could inform targeted intervention prioritisation
+**What I Did:**
+- Built and compared five ML models to evaluate predictor influence
+- Developed an interactive Power BI dashboard illustrating key risk factors
 
-Tech: Python, Scikit Learn, Power BI, Schema, Data Modelling
+**Key Insight:**
+- Random Forest achieved 97% accuracy in classification
+- Five risk factors consistently elevated severity risk
+
+**Why It Matters:**
+This dashboard enables prioritisation of high-risk areas and factors, guiding resource allocation and safety-focused initiatives.
+
+**Methods:** ML model comparison, risk factor analysis, executive dashboarding  
+**Tools:** Python (Scikit Learn), Power BI
+
 [View Repository](https://github.com/ismailolatunji/Road-Traffic-Collision-Analysis-in-Cambridgeshire-UK)
 
 
