@@ -27,6 +27,4 @@ My portfolio demonstrates applied analytics across commercial and public-sector 
 Currently open to Data, BI and Insight roles across the UK.
 
 ## Contact
-
-Email: olatunjiomotayoh@yahoo.com  
-LinkedIn: https://linkedin.com/in/ismailolatunji
+📧 [Email](mailto:olatunjiomotayoh@yahoo.com) · 💼 [LinkedIn](https://linkedin.com/in/ismailolatunji)
