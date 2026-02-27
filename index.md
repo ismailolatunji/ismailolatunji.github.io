@@ -1,7 +1,7 @@
 ---
 ---
 
-[About](index.html) | [Projects](projects.html) | [GitHub](https://github.com/ismailolatunji) | [LinkedIn](https://linkedin.com/in/ismailolatunji)
+[About](index.html) | [Featured Projects](projects.html) | [GitHub](https://github.com/ismailolatunji) | [LinkedIn](https://linkedin.com/in/ismailolatunji)
 
 
 ![Ismail headshot](assets/headshot.png)
