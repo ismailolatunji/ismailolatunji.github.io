@@ -1,11 +1,10 @@
 ---
 ---
 
-[About](index.html) | [Projects](projects.html) | [GitHub](https://github.com/ismailolatunji) | [LinkedIn](https://linkedin.com/in/ismailolatunji)
+[About](index.html) | [Featured Projects](projects.html) | [GitHub](https://github.com/ismailolatunji) | [LinkedIn](https://linkedin.com/in/ismailolatunji)
 
-# Featured Projects
 
-## Education Attainment Gap Analysis
+# **Education Attainment Gap Analysis**
 ![EHCP Preview](assets/medway_vs_national_ehcp_trend.png)
 
 Benchmark analysis of EHCP phonics attainment against national averages across six academic years.
@@ -19,7 +18,7 @@ Tech: Excel, Power Query
 
 ---
 
-## Road Traffic Collision Severity Modelling
+# **Road Traffic Collision Severity Modelling**
 ![Collision Dashboard Preview](assets/Road_Traffic_Collision.png)
 
 Machine learning modelling and interactive dashboard analysing 22,000+ UK collision records.
@@ -33,7 +32,7 @@ Tech: Python, Scikit Learn, Power BI, Schema, Data Modelling
 
 ---
 
-## Renewable Installations and Generation Benchmark
+# **Renewable Installations and Generation Benchmark**
 ![Renewable Dashboard Preview](assets/CPCA_Renewable_Dashboard.png)
 
 Regional renewable energy benchmarking across ten years of installations and generation trends.
@@ -47,7 +46,7 @@ Tech: Excel, Analytical Benchmarking
 
 ---
 
-## UK Crime Analysis Using PySpark
+# **UK Crime Analysis Using PySpark**
 
 Large scale crime dataset analysis identifying geographic concentration patterns and long-term trends.
 
@@ -60,7 +59,7 @@ Tech: PySpark, Python, Apache Spark, Hive
 
 ---
 
-## Executive Sales Performance Dashboard
+# **Executive Sales Performance Dashboard**
 ![Sales Dashboard Preview](assets/Sales_Performance_Analysis.png)
 
 Automated Excel dashboard providing real-time revenue and product performance visibility.
