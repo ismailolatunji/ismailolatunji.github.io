@@ -31,6 +31,36 @@ Demonstrates how structured modelling and visualisation can support targeted int
 
 ---
 
+## **Foster Placement Performance Dashboard**
+
+![Foster Placement Dashboard Preview](https://ismailolatunji.github.io/assets/Foster_Placement_Dashboard.png)
+
+**Situation**
+A fostering service wanted to place more children in foster care. The working assumption
+was a national carer shortage. The data said otherwise.
+
+**What I Did**
+
+* Tracked every step from referral to placement to find where children were being lost
+* Built performance metrics for foster rate, missed calls, and officer-level outcomes
+* Analysed why carers were declining and how officers were using available resources
+
+**Key Insight**
+
+* 230 of 313 declines came from two fixable causes: transport and incorrect vacancy data
+* A 152-call gap between available carers and calls made showed the problem was process, not supply
+
+**Why It Matters**
+Shows how data can reframe a perceived resourcing problem as a process problem, giving
+leadership clear and immediate actions rather than waiting on long-term carer recruitment.
+
+**Methods:** Funnel analysis, officer benchmarking, decline reason analysis
+**Tools:** Power BI, DAX
+
+[View Repository](https://github.com/ismailolatunji/foster-placement-dashboard)
+
+---
+
 ## **Education Attainment Gap Analysis (EHCP)**
 
 ![EHCP Preview](assets/medway_vs_national_ehcp_trend.png)
