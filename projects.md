@@ -31,7 +31,6 @@ Demonstrates how structured modelling and visualisation can support targeted int
 
 ---
 
-<!--
 ## **Foster Placement Performance Dashboard**
 
 ![Foster Placement Dashboard Preview](assets/Foster_Placement_Dashboard.png)
@@ -62,7 +61,6 @@ leadership clear and immediate actions rather than waiting on long-term carer re
 
 [View Repository](https://github.com/ismailolatunji/foster-placement-dashboard)
 ---
--->
 
 ## **Education Attainment Gap Analysis (EHCP)**
 
